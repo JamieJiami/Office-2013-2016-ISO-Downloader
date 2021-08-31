@@ -8,14 +8,19 @@ Special Thanks:
 Aria2
 
 Using Aria2 Command-Line Download Image
+
 Using Bitsadmin Download Aria2 Command-Line
 
 
 Operational structure!!!
 
 ------------------------------------------------------------
+
 |                                                          |
+
 |Setup.bat                                                 |
+
 |   |______aria2c.exe (Temporary)                          |
+
 |   |_____bitsadmin.exe (C:\Windows\System32\bitsadmin.exe)|
 ------------------------------------------------------------
